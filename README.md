@@ -44,12 +44,12 @@ chmod 744 start_find_run-multiple-shellscript.sh
 
 
 <details class="wp-block-details"><summary>出力結果</summary>
-<pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>./file1.sh
-hello
-./folder1/folder2/folder5/file5.sh
+<pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>./folder1/folder2/folder5/file5.sh
 world
 ./folder1/folder3/file3.sh
-find</code></pre>
+find
+./file1.sh
+hello</code></pre>
 </details>
 </div>
 
@@ -198,12 +198,12 @@ chmod 744 start_find_run-multiple-shellscript.sh
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>./file1.sh
-hello
-./folder1/folder2/folder5/file5.sh
+<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>./folder1/folder2/folder5/file5.sh
 world
 ./folder1/folder3/file3.sh
-find</code></pre>
+find
+./file1.sh
+hello</code></pre>
 </details>
 </div>
 </details>
